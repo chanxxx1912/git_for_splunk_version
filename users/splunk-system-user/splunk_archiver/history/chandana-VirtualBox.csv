@@ -5,4 +5,4 @@ sid,search,"splunk_server","_time","is_realtime","event_count","exec_time","resu
 "1658058420.43","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1658058420.462868",0,0,1658058420,0,0,canceled,"0.268",,,,,,,,,,,
 "1658062020.35","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1658062020.717610",0,0,1658062020,0,0,canceled,"0.28400000000000003",,,,,,,,,,,
 "1658065620.50","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1658065620.945856",0,0,1658065620,0,0,canceled,"0.363",,,,,,,,,,,
-"1658070118.55","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1658070118.470640",0,,,,,,,,,,,,,,,,,
+"1658070118.55","| copybuckets json=""{\""vixes\"": {}, \""providers\"": {}}""","chandana-VirtualBox","1658070118.470640",0,0,1658070118,0,0,canceled,"0.365",,,,,,,,,,,
