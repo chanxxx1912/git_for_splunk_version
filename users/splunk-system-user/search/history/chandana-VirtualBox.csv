@@ -1,0 +1,13 @@
+sid,search,"splunk_server","_time","is_realtime","event_count","exec_time","result_count","scan_count",status,"total_run_time","__mv_sid","__mv_search","__mv_splunk_server","__mv__time","__mv_is_realtime","__mv_event_count","__mv_exec_time","__mv_result_count","__mv_scan_count","__mv_status","__mv_total_run_time"
+"1658053802.15","| rest splunk_server=local services/server/info","chandana-VirtualBox","1658053802.218448",0,0,1658053802,1,0,completed,"0.325",,,,,,,,,,,
+"1658053802.18","| rest splunk_server=local services/server/info","chandana-VirtualBox","1658053802.646850",0,0,1658053802,1,0,completed,"0.34700000000000003",,,,,,,,,,,
+"1658053802.19","| rest splunk_server=local services/server/info","chandana-VirtualBox","1658053802.953080",0,0,1658053802,1,0,completed,"0.08600000000000001",,,,,,,,,,,
+"1658053802.20","| rest services/server/info | sort splunk_server","chandana-VirtualBox","1658053802.968994",0,0,1658053803,1,0,completed,"0.281",,,,,,,,,,,
+"1658053803.23","| rest services/server/info | sort splunk_server","chandana-VirtualBox","1658053803.202311",0,0,1658053803,1,0,completed,"0.093",,,,,,,,,,,
+"1658053803.24","| rest services/server/info | sort splunk_server","chandana-VirtualBox","1658053803.377877",0,0,1658053803,1,0,completed,"0.085",,,,,,,,,,,
+"1658053803.25","| rest splunk_server=local services/server/info","chandana-VirtualBox","1658053803.398507",0,0,1658053803,1,0,completed,"0.091",,,,,,,,,,,
+"1658053803.26","| rest services/server/info | sort splunk_server","chandana-VirtualBox","1658053803.607496",0,0,1658053803,1,0,completed,"0.107",,,,,,,,,,,
+"1658053803.27","| rest splunk_server=local services/server/info","chandana-VirtualBox","1658053803.962469",0,0,1658053803,1,0,completed,"0.097",,,,,,,,,,,
+"1658053804.28","| rest services/server/info | sort splunk_server","chandana-VirtualBox","1658053804.199086",0,0,1658053804,1,0,completed,"0.083",,,,,,,,,,,
+"1658053804.29","| rest splunk_server=local services/server/info","chandana-VirtualBox","1658053804.518709",0,0,1658053804,1,0,completed,"0.091",,,,,,,,,,,
+"1658053804.30","| rest services/server/info | sort splunk_server","chandana-VirtualBox","1658053804.714159",0,0,1658053804,1,0,completed,"0.065",,,,,,,,,,,
