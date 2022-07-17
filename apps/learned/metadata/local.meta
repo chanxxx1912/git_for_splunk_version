@@ -42,3 +42,8 @@ modtime = 1658047620.458827000
 owner = nobody
 version = 9.0.0
 modtime = 1658048356.617511000
+
+[props/git_for_splunk_gitforsplunk-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1658059050.887444000
